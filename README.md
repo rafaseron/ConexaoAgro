@@ -33,3 +33,10 @@ Nossa equipe e formada por especialistas das áreas de TI, desenvolvedores de si
 Que tal facilitar a vida dos produtores rurais com a gente? 
 
 Baixe o App!
+
+![conexaoAgroReleaseApp](https://github.com/rafaseron/ConexaoAgro/assets/63885470/2817fa96-f463-4f3b-9adc-761017c03a50)
+
+
+
+
+
