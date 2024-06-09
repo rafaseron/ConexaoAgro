@@ -1,6 +1,8 @@
 # ConexaoAgro
 Conexão Agro é um inovador app que conecta quem precisa vender, com quem quer comodidade para comprar
 
+![Icon](https://github.com/rafaseron/ConexaoAgro/assets/63885470/5afbcc8d-6a13-4cab-af6d-90925b38252e)
+
 Atualmente cerca de 30% dos alimentos são desperdiçados no mundo, 
 No brasil, 27 milhões de toneladas de alimentados foram desperdiçados no Brasil no ultiko levantamebto, o que coloca o país entre os 10 maiores desperdiçadores do mundo.
 
