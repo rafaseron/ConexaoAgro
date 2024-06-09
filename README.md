@@ -3,6 +3,8 @@ Conexão Agro é um inovador app que conecta quem precisa vender, com quem quer 
 
 ![Icon](https://github.com/rafaseron/ConexaoAgro/assets/63885470/5afbcc8d-6a13-4cab-af6d-90925b38252e)
 
+![conexaoAgroReleaseApp](https://github.com/rafaseron/ConexaoAgro/assets/63885470/2817fa96-f463-4f3b-9adc-761017c03a50)
+
 Atualmente cerca de 30% dos alimentos são desperdiçados no mundo, 
 No brasil, 27 milhões de toneladas de alimentados foram desperdiçados no Brasil no ultiko levantamebto, o que coloca o país entre os 10 maiores desperdiçadores do mundo.
 
@@ -33,8 +35,6 @@ Nossa equipe e formada por especialistas das áreas de TI, desenvolvedores de si
 Que tal facilitar a vida dos produtores rurais com a gente? 
 
 Baixe o App!
-
-![conexaoAgroReleaseApp](https://github.com/rafaseron/ConexaoAgro/assets/63885470/2817fa96-f463-4f3b-9adc-761017c03a50)
 
 
 
